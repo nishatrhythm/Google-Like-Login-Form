@@ -6,11 +6,11 @@
 </figure>
 
 <figure>
-  <figcaption>Login Form</figcaption>
+  <figcaption>Login Form (Email)</figcaption>
   <img src="resources/Screenshot_1.png" alt="Screenshot 1" width="700">
 </figure>
 
 <figure>
-  <figcaption>Login Form</figcaption>
+  <figcaption>Login Form (Password)</figcaption>
   <img src="resources/Screenshot_2.png" alt="Screenshot 2" width="700">
 </figure>
